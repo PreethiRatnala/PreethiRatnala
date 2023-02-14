@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PreethiRatnala
-- 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning data science
+- 👀 I’m interested into learning new technologies.
+- 🌱 I’m currently working on python, Shell scripting and SQL
 - 📫 How to reach me ...@linkdin/Ratnala preethi
 
-<!--- I'm 2019 msc post graduate in Acharya Nagarjuna University.im very much enthusiastic in playing with data.
+<!--- Currently working at Capgemini as a automation engineer, responsiable for creating scripts for repeated tasks in teams.
+
 --->
